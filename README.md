@@ -5,7 +5,6 @@
 - 👯 I mostly develop code for astrophysics & particle physics and looking to collaborate on Machine Learning/AI projects.
 - ⚡ Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen & Helium.
 - ✨ I'm currently learning about Data Analytics from the Google Advanced Data Analytics Professional Certificate.
-- 📫 This is how you can reach me: [LinkedIn](https://www.linkedin.com/in/ian-padilla-gay-2b0b0090/)
 
 ## Tech Stack
 
