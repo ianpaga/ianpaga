@@ -1,10 +1,10 @@
 ## Hi, I'm Ian!
 
-- 🔭 Postdoctoral researcher in astrophysics at [SLAC](https://www6.slac.stanford.edu/) sharing about my journey & research.
-- 🌱 I did my PhD at the [Niels Bohr Institute](https://nbi.ku.dk/english/), University of Copenhagen, where Quantum Mechanics was first formulated! 
-- 👯 I mostly develop code for astrophysics & particle physics and looking to collaborate on Machine Learning/AI projects.
-- ⚡ Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen & Helium.
-- ✨ I'm currently learning about Data Analytics from the Google Advanced Data Analytics Professional Certificate.
+🔭 Postdoctoral researcher in astrophysics at [SLAC](https://www6.slac.stanford.edu/) sharing about my journey & research. <br/>
+🌱 I did my PhD at the [Niels Bohr Institute](https://nbi.ku.dk/english/), University of Copenhagen, where Quantum Mechanics was first formulated! <br/>
+👯 I mostly develop code for astrophysics & particle physics and looking to collaborate on Machine Learning/AI projects. <br/>
+⚡ Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen & Helium. <br/>
+✨ I'm currently learning about Data Analytics from the Google Advanced Data Analytics Professional Certificate. <br/>
 
 ## Tech Stack
 
