@@ -3,12 +3,12 @@ Hello, I'm Ian!
 `Astrophysicist`
 
 🔭 I'm a Postdoctoral researcher in astrophysics at [Stanford](https://profiles.stanford.edu/ian-padilla-gay) & [SLAC National Lab](https://theory.slac.stanford.edu/person/ian-padilla-gay) sharing about my journey & research. <br/>
-🌱 I hold a PhD in Astrophysics from the [Niels Bohr Institute](https://nbi.ku.dk/english/) where Quantum Mechanics was first formulated! <br/>
-👯 I mostly develop code for astro- & particle physics and am currently looking to collaborate on Machine Learning/AI projects. <br/>
+👨‍🔬 I hold a PhD in Astrophysics from the [Niels Bohr Institute](https://nbi.ku.dk/english/) where Quantum Mechanics was first formulated! <br/>
+🖥️ I mostly develop code for astro- & particle physics and am currently looking to collaborate on Machine Learning/AI projects. <br/>
 ⚡ Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen & Helium. <br/>
-✨ Right now I'm learning about Data Analytics & how to make cool visualizations to gain insights from data. <br/>
+📊 Right now I'm learning about Data Analytics & how to make cool visualizations to gain insights from data. <br/>
 
-## Tech Stack
+## 🖥️ Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
