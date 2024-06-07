@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing code for astrophysics
 - 🌱 I’m currently learning how to model stellar explosions 
 - 👯 I’m looking to collaborate on Machine Learning projects 
-- 📫 How to reach me: (LinkedIn)[https://www.linkedin.com/in/ian-padilla-gay-2b0b0090/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ian-padilla-gay-2b0b0090/)
 - ⚡ Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen
 
 <!--
