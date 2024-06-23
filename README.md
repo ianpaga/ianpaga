@@ -6,7 +6,7 @@ Hello, I'm Ian!
 👨‍🔬 I hold a PhD in Astrophysics from the [Niels Bohr Institute](https://nbia.nbi.ku.dk/members/ian-padilla-gay/) where Quantum Mechanics was first formulated! <br/>
 🖥️ I mostly develop code for astro- & particle physics and am currently looking to collaborate on Machine Learning/AI projects. <br/>
 ⚡ Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen & Helium. <br/>
-📊 Right now I'm learning about Data Analytics & how to make cool visualizations to gain insights from data. <br/>
+📊 Right now I'm learning about Quantitative Finance Analytics & how to model complex systems in the real world <br/>
 
 ## 🖥️ Tech Stack
 
