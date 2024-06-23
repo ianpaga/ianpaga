@@ -1,6 +1,6 @@
 Hello, I'm Ian!
 ============
-`Astrophysicist`
+`Physicist at Stanford`
 
 🔭 I'm a postdoctoral researcher in astrophysics at [Stanford](https://profiles.stanford.edu/ian-padilla-gay) & [SLAC National Lab](https://theory.slac.stanford.edu/person/ian-padilla-gay) sharing about my journey & research. <br/>
 👨‍🔬 I hold a PhD in Astrophysics from the [Niels Bohr Institute](https://nbia.nbi.ku.dk/members/ian-padilla-gay/) where Quantum Mechanics was first formulated! <br/>
