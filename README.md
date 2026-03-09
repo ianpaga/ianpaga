@@ -1,4 +1,4 @@
-hi, I'm Ian
+hi, i'm Ian
 ============
 
 - I'm a postdoctoral scholar at [UC Berkeley](https://n3as.berkeley.edu/p/fellow/ian-padilla-gay/) and Visiting Scholar at UC San Diego. Before joining UCB, I was a postdoctoral research associate at Stanford University and [SLAC National Accelerator Laboratory](https://theory.slac.stanford.edu/person/ian-padilla-gay). <br/>
