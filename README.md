@@ -1,12 +1,14 @@
-Hi, I'm Ian
+hi, I'm Ian
 ============
 
-- I'm a postdoctoral scholar at UC Berkeley and Visiting Scholar at UC San Diego. Previously, I was a postdoctoral research associate at Stanford and [SLAC National Accelerator Laboratory] (https://theory.slac.stanford.edu/person/ian-padilla-gay) sharing about my journey & research. <br/>
-- I hold a PhD in Astrophysics from the [Niels Bohr Institute](https://nbia.nbi.ku.dk/members/ian-padilla-gay/) where quantum mechanics was first formulated! <br/>
-- I mostly develop code for astro- & particle physics and am currently looking to collaborate on new projects. <br/>
+- I'm a postdoctoral scholar at [UC Berkeley](https://n3as.berkeley.edu/p/fellow/ian-padilla-gay/) and Visiting Scholar at UC San Diego. Before joining UCB, I was a postdoctoral research associate at Stanford University and [SLAC National Accelerator Laboratory](https://theory.slac.stanford.edu/person/ian-padilla-gay). <br/>
+- I hold a PhD in Astrophysics from the [Niels Bohr Institute](https://nbia.nbi.ku.dk/members/ian-padilla-gay/) where quantum mechanics was first formulated.  <br/>
+- I mostly develop code for astro- and particle physics and am currently looking to collaborate on new projects. <br/>
 - Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen & Helium. <br/>
 
-## Tech Stack
+Reach out if you want to collaborate, visit my [website](https://ianpaga.github.io/my-website/). <br/>
+
+## tech stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
