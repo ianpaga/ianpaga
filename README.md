@@ -1,14 +1,12 @@
-Hello, I'm Ian!
+Hi, I'm Ian
 ============
-`Physicist at Stanford`
 
-🔭 I'm a postdoctoral researcher in astrophysics at [Stanford](https://profiles.stanford.edu/ian-padilla-gay) & [SLAC National Lab](https://theory.slac.stanford.edu/person/ian-padilla-gay) sharing about my journey & research. <br/>
-👨‍🔬 I hold a PhD in Astrophysics from the [Niels Bohr Institute](https://nbia.nbi.ku.dk/members/ian-padilla-gay/) where Quantum Mechanics was first formulated! <br/>
-🖥️ I mostly develop code for astro- & particle physics and am currently looking to collaborate on Machine Learning/AI projects. <br/>
-⚡ Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen & Helium. <br/>
-📊 Right now I'm learning about Quantitative Finance Analytics & how to model complex systems in the real world. <br/>
+- I'm a postdoctoral scholar at UC Berkeley and Visiting Scholar at UC San Diego. Previously, I was a postdoctoral research associate at Stanford and [SLAC National Accelerator Laboratory] (https://theory.slac.stanford.edu/person/ian-padilla-gay) sharing about my journey & research. <br/>
+- I hold a PhD in Astrophysics from the [Niels Bohr Institute](https://nbia.nbi.ku.dk/members/ian-padilla-gay/) where quantum mechanics was first formulated! <br/>
+- I mostly develop code for astro- & particle physics and am currently looking to collaborate on new projects. <br/>
+- Fun fact: In astrophysics lingo "heavy elements" are everything but Hydrogen & Helium. <br/>
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,8 +26,6 @@ Hello, I'm Ian!
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianpaga&layout=compact)
 
 <!--
 **ianpaga/ianpaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
